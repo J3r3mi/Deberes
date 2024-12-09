@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\InterfazGraficaUsuarios\InterfazGraficaUsuarios\bin\Debug\net8.0-windows\InterfazGraficaUsuarios.exe
+C:\Users\HP\source\repos\InterfazGraficaUsuarios\InterfazGraficaUsuarios\bin\Debug\net8.0-windows\InterfazGraficaUsuarios.deps.json
+C:\Users\HP\source\repos\InterfazGraficaUsuarios\InterfazGraficaUsuarios\bin\Debug\net8.0-windows\InterfazGraficaUsuarios.runtimeconfig.json
+C:\Users\HP\source\repos\InterfazGraficaUsuarios\InterfazGraficaUsuarios\bin\Debug\net8.0-windows\InterfazGraficaUsuarios.dll
+C:\Users\HP\source\repos\InterfazGraficaUsuarios\InterfazGraficaUsuarios\bin\Debug\net8.0-windows\InterfazGraficaUsuarios.pdb
+C:\Users\HP\source\repos\InterfazGraficaUsuarios\InterfazGraficaUsuarios\obj\Debug\net8.0-windows\InterfazGraficaUsuarios.Form1.resources
+C:\Users\HP\source\repos\InterfazGraficaUsuarios\InterfazGraficaUsuarios\obj\Debug\net8.0-windows\InterfazGraficaUsuarios.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\InterfazGraficaUsuarios\InterfazGraficaUsuarios\obj\Debug\net8.0-windows\InterfazGraficaUsuarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\InterfazGraficaUsuarios\InterfazGraficaUsuarios\obj\Debug\net8.0-windows\InterfazGraficaUsuarios.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\InterfazGraficaUsuarios\InterfazGraficaUsuarios\obj\Debug\net8.0-windows\InterfazGraficaUsuarios.AssemblyInfo.cs
+C:\Users\HP\source\repos\InterfazGraficaUsuarios\InterfazGraficaUsuarios\obj\Debug\net8.0-windows\InterfazGraficaUsuarios.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\InterfazGraficaUsuarios\InterfazGraficaUsuarios\obj\Debug\net8.0-windows\InterfazGraficaUsuarios.dll
+C:\Users\HP\source\repos\InterfazGraficaUsuarios\InterfazGraficaUsuarios\obj\Debug\net8.0-windows\refint\InterfazGraficaUsuarios.dll
+C:\Users\HP\source\repos\InterfazGraficaUsuarios\InterfazGraficaUsuarios\obj\Debug\net8.0-windows\InterfazGraficaUsuarios.pdb
+C:\Users\HP\source\repos\InterfazGraficaUsuarios\InterfazGraficaUsuarios\obj\Debug\net8.0-windows\InterfazGraficaUsuarios.genruntimeconfig.cache
+C:\Users\HP\source\repos\InterfazGraficaUsuarios\InterfazGraficaUsuarios\obj\Debug\net8.0-windows\ref\InterfazGraficaUsuarios.dll
